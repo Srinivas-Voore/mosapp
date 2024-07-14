@@ -1,0 +1,2 @@
+# mosapp
+Money Splitter App
